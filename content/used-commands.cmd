@@ -1,0 +1,1 @@
+kafka-topics --create --topic first-test --replication-factor 2 --bootstrap-server 127.0.0.1:9092
