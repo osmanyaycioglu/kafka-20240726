@@ -1,0 +1,5 @@
+tmp folder ı aç
+Windows Environment da KAFKA_HOME kafka yı açtığınız folderı ver
+Windows Environment da Path e "kafka yı açtığınız folder"\bin\windows ekle
+*.properties i kafka folderının altındaki config folder a kopyala
+*.cmd herhangi bir yere kopyala
